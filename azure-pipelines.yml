@@ -1,2 +1,2 @@
 pool:
-  vmImage: 'Ubuntu-16.04git'
+  vmImage: 'Ubuntu-16.04'
